@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://img.freepik.com/fotos-premium/claro-sencillo-brillante-suave-vintage-bokeh-onda-nublada-como-fondo-o-textura-negra-geometrica_1262705-111446.jpg?w=996?t=st=1722296172~exp=1722299772~hmac=b94ad499195cbe8c23828e06b9b740d3dc5a0221d61c26d721b1c87d62fc9a21&w=900"  />
+  <img height="400" src="https://img.freepik.com/fotos-premium/claro-sencillo-brillante-suave-vintage-bokeh-onda-nublada-como-fondo-o-textura-negra-geometrica_1262705-111446.jpg?w=996"  />
 </div>
 
 ###
@@ -12,7 +12,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="php logo"  />
   <img width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
@@ -37,7 +37,12 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/22xyi2jz7gvby5k3qapnbqyba">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=22xyi2jz7gvby5k3qapnbqyba&unique=1" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=22xyi2jz7gvby5k3qapnbqyba&count=5" alt="Spotify recently played"  />
   </a>
 </div>
 
+###
+
+<img src="https://raw.githubusercontent.com/AyenMedCa/AyenMedCa/output/snake.svg" alt="Snake animation" />
+
+###
