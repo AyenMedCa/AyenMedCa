@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://img.freepik.com/foto-gratis/nubes-al-estilo-anime_23-2151071803.jpg?t=st=1722296172~exp=1722299772~hmac=b94ad499195cbe8c23828e06b9b740d3dc5a0221d61c26d721b1c87d62fc9a21&w=900"  />
+  <img height="200" src="https://www.shutterstock.com/es/image-vector/vector-night-sky-clouds-moonlight-background-760640275?t=st=1722296172~exp=1722299772~hmac=b94ad499195cbe8c23828e06b9b740d3dc5a0221d61c26d721b1c87d62fc9a21&w=900"  />
 </div>
 
 ###
