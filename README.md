@@ -37,12 +37,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/22xyi2jz7gvby5k3qapnbqyba">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=22xyi2jz7gvby5k3qapnbqyba&count=5" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=22xyi2jz7gvby5k3qapnbqyba&unique=1" alt="Spotify recently played"  />
   </a>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/AyenMedCa/AyenMedCa/output/snake.svg" alt="Snake animation" />
-
-###
